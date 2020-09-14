@@ -13,12 +13,10 @@ This is a list with the set of library files and executable you need to do Crypt
 
 ## Linux Machine
 1) Download [OpenSSL Code from GitHub](https://github.com/openssl/openssl)
-2) Execute the following commands:
-<br/>
+2) Execute the following commands:<br/>
 <b>$ ./Configure</b><br/>
 <b>$ make</b><br/>
-<b>$ make test</b><br/>
-<br/>
+<b>$ make test</b>
 
 ### Reference: https://github.com/openssl/openssl/blob/master/INSTALL.md; last accessed: 20200914
 
@@ -36,7 +34,7 @@ This is a list with the set of library files and executable you need to do Crypt
 2) [OpenSSL Official GitHub Page](https://github.com/openssl/openssl)<br />
 
 # Open Source Software License
-Copyright 2019 Usbong Social Systems, Inc.
+Copyright 2019~2020 Usbong Social Systems, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
