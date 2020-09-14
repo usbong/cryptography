@@ -16,8 +16,10 @@ This is a list with the set of library files and executable you need to do Crypt
 2) Execute the following commands:<br/>
 <b>$ ./Configure</b><br/>
 <b>$ make</b><br/>
-<b>$ make test</b>
+<b>$ make test</b><br/>
+<b>$ make install</b>
 
+### Note: OpenSSL (version: 1.1.1g)
 ### Reference: https://github.com/openssl/openssl/blob/master/INSTALL.md; last accessed: 20200914
 
 ## Known Problem: OpenSSL Installation in Linux Machine
