@@ -5,6 +5,10 @@
 <b>Description:</b><br />
 This is a list with the set of library files and executable you need to do Cryptography, e.g. encryption, decryption, using OpenSSL.
 
+<table>
+<tr>
+<td>
+
 ## Windows Machine (version: 3) 
 1) openssl.exe (and .dll files) 
 
@@ -12,12 +16,32 @@ This is a list with the set of library files and executable you need to do Crypt
 
 <b>Default location:</b> C:\Program Files\Git\usr\bin\openssl.exe
 
+<table>
+<tr>
+<td>
+   
+### Reminder
+
+Remember to update `System -> About -> Advanced system settings -> Environment Variables -> System variables -> Path` 
+
+Add `C:\Program Files\Git\usr\bin`
+
+Each added directory in `Path` must be separated by a semicolon, ";"
+
+</td>
+</tr>
+</table>
+
 ### Reference
 
 1) https://stackoverflow.com/questions/50625283/how-to-install-openssl-in-windows-10;<br/>
 last accessed: 20250111<br/>
 answer by: Kaushik Ghosh, 20180809T0220<br/>
 edited by: Foo Bar, 20220519T0105
+
+</td>
+</tr>
+</table>
 
 ## Windows Machine (earlier version: 1.1) 
 1) libcrypto, e.g. libcrypto-1_1-x64.dll
@@ -48,6 +72,7 @@ edited by: Foo Bar, 20220519T0105
 # References
 1) [OpenSSL Official Website](https://www.openssl.org)<br />
 2) [OpenSSL Official GitHub Page](https://github.com/openssl/openssl)<br />
+3) [Git for Windows](https://gitforwindows.org/)<br />
 
 # Open Source Software License
 Copyright 2019~2025 Usbong
