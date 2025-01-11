@@ -1,11 +1,25 @@
 # Cryptography
-<b>Author:</b> Michael B. Syson<br />
+<b>Author:</b> SYSON, Michael B.<br />
 <b>Date Created:</b> 20190609<br />
-<b>Last Updated:</b> 20200914<br />
+<b>Last Updated:</b> 20250111; from 20200914<br />
 <b>Description:</b><br />
 This is a list with the set of library files and executable you need to do Cryptography, e.g. encryption, decryption, using OpenSSL.
 
-## Windows Machine
+## Windows Machine (version: 3) 
+1) openssl.exe (and .dll files) 
+
+<b>Download from: </b> https://gitforwindows.org/
+
+<b>Default location:</b> C:\Program Files\Git\usr\bin\openssl.exe
+
+### Reference
+
+1) https://stackoverflow.com/questions/50625283/how-to-install-openssl-in-windows-10;<br/>
+last accessed: 20250111<br/>
+answer by: Kaushik Ghosh, 20180809T0220<br/>
+edited by: Foo Bar, 20220519T0105
+
+## Windows Machine (earlier version: 1.1) 
 1) libcrypto, e.g. libcrypto-1_1-x64.dll
 2) libssl, e.g. libssl-1_1-x64.dll
 3) openssl.exe
@@ -36,7 +50,7 @@ This is a list with the set of library files and executable you need to do Crypt
 2) [OpenSSL Official GitHub Page](https://github.com/openssl/openssl)<br />
 
 # Open Source Software License
-Copyright 2019~2020 Usbong Social Systems, Inc.
+Copyright 2019~2025 Usbong
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
