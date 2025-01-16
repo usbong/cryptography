@@ -11,14 +11,14 @@ REM
 REM @company: USBONG
 REM @author: SYSON, MICHAEL B.
 REM @date created: 2019
-REM @date updated: 20250113; from 20250111
+REM @date updated: 20250116; from 20250113
 REM @website address: http://www.usbong.ph
 REM
 echo //-----------------------------------------------------------------------
 echo //  Marikina Orthopedic Specialy Clinic - Sta. Lucia Health Care Centre
 echo //  USBONG
 echo //
-echo //  HTML File Automatic Encryption Using Encrypted Passphrase
+echo //  DB File Automatic Encryption Using Encrypted Passphrase
 echo //
 echo //-----------------------------------------------------------------------
 echo.
